@@ -1,8 +1,15 @@
 # A03
 
 WebStorm:
-
-
+1)On the Welcome Screen, click Open and then select the folder with your application in the dialog that opens.
+2)Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The Create New Project Dialog opens. In the left-hand pane, choose Empty Project. In the right-hand pane, specify the application folder and click Create.
+3)Choose New from the context menu of the selection and then choose the file type from the list.
+4)To find a text fragment in the current file, press Ctrl+F and type the search pattern.To search within a directory, any arbitrary scope, or the entire project, press Ctrl+Shift+F and specify the search pattern and the scope.
+5)WebStorm automatically keeps track of the changes you make to the source code, the results of refactoring, and so on in the Local History. To view it for a file or a folder, choose VCS | Local History | Show History from the main menu.
+6)Complete your code
+7)Inspect and fix your code on the fly
+8)Create a run configuration of the type that fits your app and click Run.
+9)Keep your source code under Version Control
 
 
 GitHub:
